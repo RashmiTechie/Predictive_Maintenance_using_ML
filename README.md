@@ -6,7 +6,7 @@ Python, scikit-learn, pandas, matplotlib, Jupyter
 Trains a classification model on IoT sensor readings to predict equipment 
 failure before it occurs. Evaluated 3 algorithms; Random Forest achieved 
 94% accuracy on the test set.
-Compared Logistic Regression, Decision Tree, and Random Forest — selected Random Forest for best precision-recall balance on imbalanced failure data.
+Compared Logistic Regression, Decision Tree, and Random Forest selected Random Forest for best precision-recall balance on imbalanced failure data.
 
 ## Run it
 pip install -r requirements.txt
