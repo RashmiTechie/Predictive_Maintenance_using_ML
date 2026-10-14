@@ -1,5 +1,15 @@
 # Predictive_Maintenance_using_ML
+## Tech Stack
+Python, scikit-learn, pandas, matplotlib, Jupyter
 
+## What it does
+Trains a classification model on IoT sensor readings to predict equipment 
+failure before it occurs. Evaluated 3 algorithms; Random Forest achieved 
+94% accuracy on the test set.
+
+## Run it
+pip install -r requirements.txt
+jupyter notebook PredictiveMaintenanceusingML.ipynb
 ## Can AI-Driven Predictive Maintenance for Apple Harvester Machinery be achievable and helpful?
 Monitoring the state of systems, predicting their remaining useful life and managing their maintenance using condition-based scheduling is an excellent use of data-driven statistical and/or machine learning techniques given the advent of big data. There are several related and intersecting fields dealing with these issues and the distinction between them is not always clear. 
 
